@@ -61,7 +61,7 @@ const Home = (ALL_LIST_STORE) => {
             severity="success"
             sx={{ width: "100%" }}
           >
-            Accepted!
+            Accepted Test!
           </Alert>
         </Snackbar>
         <Snackbar
