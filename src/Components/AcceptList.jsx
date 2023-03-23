@@ -29,7 +29,7 @@ const AcceptList = (ACCEPT_LIST_STORE) => {
       }}
       >
         <Container>
-          <Typography variant="h4" gutterBottom sx={{ textAlign: 'center' }}>Accept List</Typography>
+          <Typography variant="h4" gutterBottom sx={{ textAlign: 'center' }}>Accept Test List</Typography>
           {acceptedArray.map((items) => {
             return (
               <Paper elevation={5} id={items.id}>
